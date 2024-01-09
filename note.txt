@@ -1,0 +1,2 @@
+https://github.com/delprzemo/react-admin-template
+"start": "react-scripts --openssl-legacy-provider start",
